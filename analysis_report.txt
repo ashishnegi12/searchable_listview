@@ -1,0 +1,1 @@
+[info] 'onItemSelected' is deprecated and shouldn't be used. Will be removed in the next release (/home/runner/work/Searchable-Listview/Searchable-Listview/example/lib/main.dart:143:7)
